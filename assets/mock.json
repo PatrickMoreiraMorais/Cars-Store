@@ -1,0 +1,404 @@
+{
+  "products": {
+    "-KfyR2wPjG5cAe9Xh": {
+      "name": "Ford Mustang GT",
+      "image": "https://cdn.pixabay.com/photo/2018/04/23/17/37/auto-3344988_1280.jpg",
+      "description": "O Ford Mustang GT é um carro esportivo de alto desempenho com um design icônico.",
+      "price": "R$1.000.000,00",
+      "technicalSpecifications": {
+        "engine": "V8 5.0L",
+        "transmission": "Manual 6-speed",
+        "power": "450 horsepower",
+        "torque": "410 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Car Dealership",
+        "phone": "(123) 456-7890",
+        "email": "sales@example.com",
+        "rating": 4.8
+      },
+      "comments": [
+        {
+          "user": "Carlosgt",
+          "date": "2024-03-27",
+          "comment": "Excelente carro, potência incrível e dirigibilidade impecável!",
+          "rating": 5
+        },
+        {
+          "user": "AnaMustang",
+          "date": "2024-03-26",
+          "comment": "O Ford Mustang GT é simplesmente sensacional, estou apaixonada!",
+          "rating": 4.5
+        }
+      ],
+      "questions": [
+        {
+          "user": "PedroMustang",
+          "date": "2024-03-25",
+          "question": "Qual é a velocidade máxima do Mustang GT?",
+          "answer": "O Ford Mustang GT tem uma velocidade máxima de aproximadamente 250 km/h."
+        }
+      ]
+    },
+    "-u3mN7zRQgj8sLbE6": {
+      "name": "Chevrolet Camaro SS",
+      "image": "https://cdn.pixabay.com/photo/2017/07/04/23/52/camaro-2473050_1280.jpg",
+      "description": "O Chevrolet Camaro SS é um carro esportivo com um design aerodinâmico e desempenho emocionante.",
+      "price": "R$800.000,00",
+      "technicalSpecifications": {
+        "engine": "V8 6.2L",
+        "transmission": "Automatic 10-speed",
+        "power": "455 horsepower",
+        "torque": "455 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Auto Sales",
+        "phone": "(123) 789-0123",
+        "email": "info@autosales.com",
+        "rating": 4.7
+      },
+      "comments": [
+        {
+          "user": "RafaCamaro",
+          "date": "2024-03-24",
+          "comment": "Adrenalina pura, o Camaro SS é incrível!",
+          "rating": 5
+        },
+        {
+          "user": "CarlaCamaro",
+          "date": "2024-03-23",
+          "comment": "Estou maravilhada com a potência e estilo do Camaro SS!",
+          "rating": 4.5
+        }
+      ],
+      "questions": [
+        {
+          "user": "LucasCamaro",
+          "date": "2024-03-22",
+          "question": "O Camaro SS possui modos de condução?",
+          "answer": "Sim, o Chevrolet Camaro SS oferece modos de condução para diferentes experiências de dirigibilidade."
+        }
+      ]
+    },
+    "-DvFk9TzQm7XsNpR4": {
+      "name": "BMW M5",
+      "image": "https://cdn.pixabay.com/photo/2019/03/09/12/05/vehicle-4044036_1280.jpg",
+      "description": "O BMW M5 combina luxo, tecnologia e alta performance em um sedã esportivo.",
+      "price": "R$500.000,00",
+      "technicalSpecifications": {
+        "engine": "V8 4.4L",
+        "transmission": "Automatic 8-speed",
+        "power": "600 horsepower",
+        "torque": "553 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Luxury Cars",
+        "phone": "(123) 345-6789",
+        "email": "sales@luxurycars.com",
+        "rating": 4.9
+      },
+      "comments": [
+        {
+          "user": "MariaM5",
+          "date": "2024-03-26",
+          "comment": "Dirigir um BMW M5 é uma experiência única, supera todas as expectativas!",
+          "rating": 5
+        },
+        {
+          "user": "GabrielM5",
+          "date": "2024-03-25",
+          "comment": "O BMW M5 é um carro de outro nível, pura emoção ao volante!",
+          "rating": 5
+        }
+      ],
+      "questions": [
+        {
+          "user": "AnaBMWM5",
+          "date": "2024-03-24",
+          "question": "Quais são os principais recursos de segurança do BMW M5?",
+          "answer": "O BMW M5 possui sistemas avançados de assistência ao motorista, como frenagem automática de emergência e alerta de colisão."
+        }
+      ]
+    },
+    "-eYjV5gPqL2mXfZtC": {
+      "name": "Audi RS6 Avant",
+      "image": "https://cdn.pixabay.com/photo/2018/04/28/13/28/car-3357296_1280.jpg",
+      "description": "Audi RS6 Avant combina espaço, luxo e desempenho em um modelo esportivo familiar.",
+      "price": "R$980.000,00",
+      "technicalSpecifications": {
+        "engine": "V8 4.0L",
+        "transmission": "Automatic 8-speed",
+        "power": "591 horsepower",
+        "torque": "590 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Audi Dealership",
+        "phone": "(123) 567-8901",
+        "email": "audi@dealership.com",
+        "rating": 4.8
+      },
+      "comments": [
+        {
+          "user": "CarlosRS6",
+          "date": "2024-03-23",
+          "comment": "A Audi RS6 Avant é a combinação perfeita de esportividade e praticidade!",
+          "rating": 5
+        },
+        {
+          "user": "JulianaRS6",
+          "date": "2024-03-22",
+          "comment": "Estou impressionada com o desempenho e conforto da RS6 Avant, excelente escolha!",
+          "rating": 4.5
+        }
+      ],
+      "questions": [
+        {
+          "user": "RafaelRS6",
+          "date": "2024-03-21",
+          "question": "O sistema de tração da RS6 Avant é ajustável?",
+          "answer": "Sim, a Audi RS6 Avant possui um sistema de tração quattro com ajuste de distribuição de torque para otimizar a tração em diferentes condições."
+        }
+      ]
+    },
+    "-WbUx8yRnG3sMpQkF": {
+      "name": "Mercedes-Benz AMG GT",
+      "image": "https://cdn.pixabay.com/photo/2016/06/20/22/35/mercedes-benz-1470136_1280.jpg",
+      "description": "O Mercedes-Benz AMG GT é um cupê esportivo que combina luxo, desempenho e tecnologia avançada.",
+      "price": "R$750.000,00",
+      "technicalSpecifications": {
+        "engine": "V8 4.0L",
+        "transmission": "Automatic 7-speed",
+        "power": "523 horsepower",
+        "torque": "494 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Mercedes Dealership",
+        "phone": "(123) 678-9012",
+        "email": "sales@mercedes.com",
+        "rating": 4.9
+      },
+      "comments": [
+        {
+          "user": "LucasAMG",
+          "date": "2024-03-20",
+          "comment": "O Mercedes AMG GT é uma obra de arte em movimento, desempenho excepcional!",
+          "rating": 5
+        },
+        {
+          "user": "MarianaAMG",
+          "date": "2024-03-19",
+          "comment": "Estou encantada com a elegância e potência do AMG GT, simplesmente incrível!",
+          "rating": 5
+        }
+      ],
+      "questions": [
+        {
+          "user": "AnaAMG",
+          "date": "2024-03-18",
+          "question": "O sistema de escapamento do AMG GT possui modos ajustáveis?",
+          "answer": "Sim, o Mercedes-Benz AMG GT oferece modos de escape ajustáveis para diferentes sons e performances."
+        }
+      ]
+    },
+    "-aJhS6tYvN4qDpFwZ": {
+      "name": "Porsche 911 Carrera",
+      "image": "https://cdn.pixabay.com/photo/2018/01/11/17/32/porsche-911-gt2rs-3076518_1280.jpg",
+      "description": "O Porsche 911 Carrera é um ícone entre os carros esportivos, combinando desempenho e elegância.",
+      "price": "R$1.200.000,00",
+      "technicalSpecifications": {
+        "engine": "Flat-6 3.0L",
+        "transmission": "Automatic 8-speed",
+        "power": "379 horsepower",
+        "torque": "331 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Porsche Center",
+        "phone": "(123) 890-1234",
+        "email": "info@porsche.com",
+        "rating": 4.8
+      },
+      "comments": [
+        {
+          "user": "Ricardo911",
+          "date": "2024-03-17",
+          "comment": "O Porsche 911 Carrera é um mito sobre rodas, dirigir este carro é uma experiência única!",
+          "rating": 5
+        },
+        {
+          "user": "Gabriela911",
+          "date": "2024-03-16",
+          "comment": "Estou apaixonada pelo design e performance do 911 Carrera, simplesmente perfeito!",
+          "rating": 5
+        }
+      ],
+      "questions": [
+        {
+          "user": "Pedro911",
+          "date": "2024-03-15",
+          "question": "O Porsche 911 Carrera oferece opções de personalização?",
+          "answer": "Sim, é possível personalizar diversos aspectos do Porsche 911 Carrera para atender às preferências individuais dos clientes."
+        }
+      ]
+    },
+    "-PbG7dZrMqVfAeK3S": {
+      "name": "Lamborghini Huracán",
+      "image": "https://cdn.pixabay.com/photo/2020/02/03/10/07/lamborghini-4815249_1280.jpg",
+      "description": "O Lamborghini Huracán é um supercarro que combina design arrojado, desempenho excepcional e tecnologia avançada.",
+      "price": "R$2.000.000,00",
+      "technicalSpecifications": {
+        "engine": "V10 5.2L",
+        "transmission": "Automatic 7-speed",
+        "power": "602 horsepower",
+        "torque": "413 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Lamborghini Dealership",
+        "phone": "(123) 456-7890",
+        "email": "sales@lamborghini.com",
+        "rating": 4.9
+      },
+      "comments": [
+        {
+          "user": "BrunoHuracan",
+          "date": "2024-03-14",
+          "comment": "Dirigir um Lamborghini Huracán é uma experiência surreal, pura emoção!",
+          "rating": 5
+        },
+        {
+          "user": "JulianaHuracan",
+          "date": "2024-03-13",
+          "comment": "O Huracán é simplesmente fantástico, desempenho de outro mundo!",
+          "rating": 5
+        }
+      ],
+      "questions": [
+        {
+          "user": "FelipeHuracan",
+          "date": "2024-03-12",
+          "question": "Quanto tempo o Huracán leva para atingir 100 km/h?",
+          "answer": "O Lamborghini Huracán pode atingir 100 km/h em cerca de 3,2 segundos, dependendo da versão e condições."
+        }
+      ]
+    },
+    "-fNtJ5zDgK4mHbVpQ": {
+      "name": "Ferrari 488 GTB",
+      "image": "https://cdn.pixabay.com/photo/2020/12/13/13/06/ferrari-488-gtb-5828180_1280.jpg",
+      "description": "A Ferrari 488 GTB é um supercarro que combina elegância italiana com desempenho de corrida.",
+      "price": "R$1.500.000,00",
+      "technicalSpecifications": {
+        "engine": "V8 3.9L",
+        "transmission": "Automatic 7-speed",
+        "power": "661 horsepower",
+        "torque": "561 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Ferrari Dealership",
+        "phone": "(123) 567-8901",
+        "email": "sales@ferrari.com",
+        "rating": 4.8
+      },
+      "comments": [
+        {
+          "user": "Lucas488",
+          "date": "2024-03-11",
+          "comment": "A Ferrari 488 GTB é uma obra-prima em movimento, pura paixão e desempenho!",
+          "rating": 5
+        },
+        {
+          "user": "Mariana488",
+          "date": "2024-03-10",
+          "comment": "Estou impressionada com a potência e estilo da 488 GTB, simplesmente incrível!",
+          "rating": 5
+        }
+      ],
+      "questions": [
+        {
+          "user": "Ana488",
+          "date": "2024-03-09",
+          "question": "Qual é a velocidade máxima da Ferrari 488 GTB?",
+          "answer": "A Ferrari 488 GTB pode atingir uma velocidade máxima de aproximadamente 330 km/h."
+        }
+      ]
+    },
+    "-XsL8kRgMnZjVbTqP": {
+      "name": "McLaren 720S",
+      "image": "https://cdn.pixabay.com/photo/2019/05/23/02/21/mclaren-4223024_1280.jpg",
+      "description": "O McLaren 720S é um supercarro que oferece desempenho excepcional e tecnologias avançadas de aerodinâmica.",
+      "price": "R$2.500.000,00",
+      "technicalSpecifications": {
+        "engine": "V8 4.0L",
+        "transmission": "Automatic 7-speed",
+        "power": "710 horsepower",
+        "torque": "568 lb-ft"
+      },
+      "vendedorData": {
+        "name": "McLaren Dealership",
+        "phone": "(123) 678-9012",
+        "email": "sales@mclaren.com",
+        "rating": 4.9
+      },
+      "comments": [
+        {
+          "user": "Ricardo720S",
+          "date": "2024-03-08",
+          "comment": "O McLaren 720S é uma máquina de velocidade, pura emoção em cada curva!",
+          "rating": 5
+        },
+        {
+          "user": "Gabriela720S",
+          "date": "2024-03-07",
+          "comment": "Estou maravilhada com a performance e design do McLaren 720S, sensacional!",
+          "rating": 5
+        }
+      ],
+      "questions": [
+        {
+          "user": "Pedro720S",
+          "date": "2024-03-06",
+          "question": "Qual é a aceleração de 0 a 100 km/h do McLaren 720S?",
+          "answer": "O McLaren 720S pode atingir 100 km/h em cerca de 2,9 segundos, dependendo das condições de condução."
+        }
+      ]
+    },
+    "-mYsVbHgDkRjMqZnL": {
+      "name": "Tesla Model S Plaid",
+      "image": "https://cdn.pixabay.com/photo/2020/01/20/20/39/car-4781370_1280.jpg",
+      "description": "O Tesla Model S Plaid é um sedã elétrico de alta performance com tecnologia avançada e autonomia impressionante.",
+      "price": "R$1.300.000,00",
+      "technicalSpecifications": {
+        "engine": "Electric (3 motors)",
+        "transmission": "Direct Drive",
+        "power": "1020 horsepower",
+        "torque": "1050 lb-ft"
+      },
+      "vendedorData": {
+        "name": "Tesla Store",
+        "phone": "(123) 456-7890",
+        "email": "sales@tesla.com",
+        "rating": 4.9
+      },
+      "comments": [
+        {
+          "user": "AnaTesla",
+          "date": "2024-03-28",
+          "comment": "O Tesla Model S Plaid redefine o conceito de carros elétricos, desempenho incrível!",
+          "rating": 5
+        },
+        {
+          "user": "LucasTesla",
+          "date": "2024-03-27",
+          "comment": "Estou maravilhado com a tecnologia e autonomia do Model S Plaid, sem dúvida um carro do futuro!",
+          "rating": 5
+        }
+      ],
+      "questions": [
+        {
+          "user": "PedroTesla",
+          "date": "2024-03-26",
+          "question": "Qual é a autonomia aproximada do Tesla Model S Plaid?",
+          "answer": "O Tesla Model S Plaid tem uma autonomia de cerca de 390 milhas (aproximadamente 627 km) em uma única carga."
+        }
+      ]
+    }
+  }
+}
